@@ -1,6 +1,6 @@
 jps
 jstat
-
+jstack
 
 
 
