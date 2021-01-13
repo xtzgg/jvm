@@ -2,7 +2,7 @@ jps
 jstat
 jstack
 jmap
-
+jhat
 
 
 
